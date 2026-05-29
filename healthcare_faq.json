@@ -1,0 +1,102 @@
+[
+  {
+    "department": "billing",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards (Visa, MasterCard, American Express), debit cards, checks, cash, and online payments through our patient portal. We also accept Health Savings Account (HSA) and Flexible Spending Account (FSA) cards."
+  },
+  {
+    "department": "billing",
+    "question": "How can I dispute a medical bill?",
+    "answer": "To dispute a medical bill, please contact our billing department at billing@healthcare.com or call 1-800-555-0101. Provide your account number, the disputed charge, and the reason for the dispute. Our team will review your case within 5-7 business days and respond with a resolution."
+  },
+  {
+    "department": "billing",
+    "question": "Do you offer payment plans?",
+    "answer": "Yes, we offer flexible payment plans for patients who need financial assistance. Payment plans can be arranged for balances over $100. Contact our billing department to discuss options. We also have a financial assistance program for patients who qualify based on income."
+  },
+  {
+    "department": "billing",
+    "question": "When will I receive my bill?",
+    "answer": "Bills are typically sent within 30 days of your visit after we have processed your insurance claim. If you have not received a bill within 45 days of your visit, please contact our billing department at 1-800-555-0101 to verify your address and account status."
+  },
+  {
+    "department": "billing",
+    "question": "How do I understand my Explanation of Benefits (EOB)?",
+    "answer": "An Explanation of Benefits (EOB) is a statement from your insurance company explaining what was covered and what you owe. It includes: billed amount, insurance adjustment, amount your insurance paid, and your patient responsibility. If you have questions about your EOB, call our billing support at 1-800-555-0101 or email billing@healthcare.com."
+  },
+  {
+    "department": "insurance",
+    "question": "What insurance plans do you accept?",
+    "answer": "We accept most major insurance plans including Blue Cross Blue Shield, Aetna, Cigna, United Healthcare, Humana, Medicare, and Medicaid. Please call our insurance verification line at 1-800-555-0202 or check our website for a complete list of accepted insurance plans."
+  },
+  {
+    "department": "insurance",
+    "question": "How do I verify my insurance coverage?",
+    "answer": "To verify your insurance coverage, you can: (1) Call our insurance verification line at 1-800-555-0202, (2) Log in to our patient portal and use the insurance verification tool, or (3) Contact your insurance company directly. Please have your insurance card ready when calling."
+  },
+  {
+    "department": "insurance",
+    "question": "What if my insurance claim is denied?",
+    "answer": "If your insurance claim is denied, our team can help you with the appeals process. Contact our insurance department at insurance@healthcare.com or 1-800-555-0202. We will review the denial reason and help you file an appeal within the required timeframe. Common reasons for denial include incorrect information or missing pre-authorization."
+  },
+  {
+    "department": "insurance",
+    "question": "Do I need a referral to see a specialist?",
+    "answer": "Whether you need a referral depends on your insurance plan. HMO plans typically require a referral from your primary care physician, while PPO plans usually do not require referrals. Please check with your insurance provider or contact our office at 1-800-555-0100 to confirm your specific requirements."
+  },
+  {
+    "department": "insurance",
+    "question": "How do I update my insurance information?",
+    "answer": "To update your insurance information, you can: (1) Log in to the patient portal and update under 'Insurance Information', (2) Call our registration desk at 1-800-555-0100, or (3) Bring your new insurance card to your next appointment. Please update your information at least 48 hours before a scheduled visit."
+  },
+  {
+    "department": "appointments",
+    "question": "How do I book an appointment?",
+    "answer": "You can book an appointment through multiple channels: (1) Online via our patient portal at portal.healthcare.com, (2) By calling 1-800-555-0100 during business hours (Mon-Fri 8am-6pm), (3) Via our mobile app, or (4) By visiting our front desk in person. Same-day appointments are available based on availability."
+  },
+  {
+    "department": "appointments",
+    "question": "What is your cancellation policy?",
+    "answer": "We require at least 24 hours notice to cancel or reschedule an appointment. Cancellations made with less than 24 hours notice may result in a $25 cancellation fee. To cancel or reschedule, call 1-800-555-0100 or use the patient portal. Repeated no-shows may affect your ability to schedule future appointments."
+  },
+  {
+    "department": "appointments",
+    "question": "How do I prepare for my appointment?",
+    "answer": "To prepare for your appointment: (1) Bring your insurance card and a valid photo ID, (2) Arrive 15 minutes early to complete paperwork, (3) Bring a list of current medications and dosages, (4) Bring any relevant medical records or test results, (5) Write down your symptoms and questions beforehand. For specific procedures, you may receive additional preparation instructions."
+  },
+  {
+    "department": "appointments",
+    "question": "Can I request a specific doctor?",
+    "answer": "Yes, you can request a specific doctor when scheduling your appointment. We will do our best to accommodate your request, subject to the doctor's availability. If your preferred doctor is not available, we can schedule you with another qualified provider and note your preference for future appointments."
+  },
+  {
+    "department": "appointments",
+    "question": "Do you offer telehealth appointments?",
+    "answer": "Yes, we offer telehealth (virtual) appointments for many types of visits including follow-ups, prescription renewals, mental health consultations, and minor illness evaluations. Telehealth appointments are available through our patient portal or mobile app. Check with your insurance provider regarding telehealth coverage."
+  },
+  {
+    "department": "records",
+    "question": "How do I request my medical records?",
+    "answer": "To request your medical records: (1) Submit a written request through the patient portal under 'Medical Records', (2) Complete a Medical Records Release Form at our front desk, or (3) Email medicalrecords@healthcare.com with your full name, date of birth, and the records you need. Requests are typically processed within 5-10 business days. There may be a nominal fee for copies."
+  },
+  {
+    "department": "records",
+    "question": "How long does it take to receive my medical records?",
+    "answer": "Medical records are typically provided within 5-10 business days of a complete request. Urgent requests may be processed within 24-48 hours with proper documentation. Electronic records through the patient portal are available immediately. If you need records for a medical emergency, contact us at 1-800-555-0303 for expedited processing."
+  },
+  {
+    "department": "records",
+    "question": "Can I access my medical records online?",
+    "answer": "Yes, you can access many of your medical records online through our patient portal at portal.healthcare.com. Available records include visit summaries, lab results, immunization history, medication lists, and discharge summaries. To access your portal, register with your email address and patient ID, or ask at the front desk during your next visit."
+  },
+  {
+    "department": "records",
+    "question": "How do I transfer my medical records to another provider?",
+    "answer": "To transfer your medical records to another provider: (1) Complete a Medical Records Transfer Authorization form (available at the front desk or patient portal), (2) Provide the name and contact information of the receiving provider, (3) Specify which records you want transferred. Processing typically takes 5-7 business days. You can also authorize your new provider to request records on your behalf."
+  },
+  {
+    "department": "records",
+    "question": "Are my medical records kept private?",
+    "answer": "Yes, your medical records are strictly confidential and protected under HIPAA (Health Insurance Portability and Accountability Act). We only share your records with authorized individuals or as required by law. You have the right to access your own records and request corrections. Contact our Privacy Officer at privacy@healthcare.com if you have concerns about how your information is used."
+  }
+]
